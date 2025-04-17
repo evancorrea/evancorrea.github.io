@@ -16,6 +16,7 @@ Evaluating exisitng APA Quantification methods and contributing to development o
 *Severi Lab, NJIT (2023–Present)*  
 ### 🧠 Optogenetics in Zebrafish  
 Investigated the role of Dmrt3a-associated spinal interneurons in larval zebrafish with optogenetic stimulation. 
+
 ---
 
 ### 📊 Dynamic Hydrogel Platform for Cardiomyocytes  
