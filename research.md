@@ -6,7 +6,7 @@ Here are some of the research projects I’ve worked on:
 
 *Barash Lab, University of Pennsylvania (2024–Present)*  
 
-### Integrative Transcriptomic Analysis to Characterize Alternative Splicing near 3' UTR
+### 💻Integrative Transcriptomic Analysis to Characterize Alternative Splicing near 3' UTR
 Processed RNA-seq and MAJIQ output to identify RNA-binding-proteins that regulated the inclusion of alternative last exons.
 [Poster PDF](poster.pdf)
 
